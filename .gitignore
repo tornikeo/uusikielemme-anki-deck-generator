@@ -1,0 +1,6 @@
+__pycache__
+*.pickle
+*.apkg
+.joblib_cache
+.vscode
+.env

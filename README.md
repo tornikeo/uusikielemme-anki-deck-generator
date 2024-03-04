@@ -1,4 +1,4 @@
-## ChatGPT prompts
+# Generate anki decks from uusikielemme
 
 Most of the code in this repo was generated using ChatGPT. You can extend this repo very easily by modifying these prompts.
 

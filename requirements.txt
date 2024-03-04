@@ -5,4 +5,10 @@ ipykernel
 pandas
 lxml
 backoff
+tqdm
 markdownify 
+html5lib
+genanki
+openai
+python-dotenv
+Jinja2
