@@ -1,0 +1,8 @@
+joblib
+requests
+beautifulsoup4
+ipykernel
+pandas
+lxml
+backoff
+markdownify 
